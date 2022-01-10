@@ -5,7 +5,7 @@ import java.util.*;
 import java.io.*;
 
 
-class goldmanprblm_3 {
+class Solution3 {
 	public static void main(String[] args) throws IOException
 	{
 	    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
