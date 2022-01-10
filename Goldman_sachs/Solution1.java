@@ -45,7 +45,7 @@ class goldmanprblm_1 {
 
 //User function Template for Java
 
-class Solution {
+class Solution1 {
     public List<List<String>> Anagrams(String[] string_list) {
     	List<List<String>> result = new ArrayList<List<String>>();
     	List<String> keyList = new ArrayList<>();
